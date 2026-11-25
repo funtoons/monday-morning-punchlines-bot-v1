@@ -8,16 +8,16 @@ One joke about Monday mornings, 200 characters at most, judged on laughs.
 
 ## The joke
 
-> Monday morning is when every 'I'll do it Monday' I said all weekend shows up at my door to collect.
+> My bed filed for custody of me on Monday mornings — and honestly, the judge is on its side.
 
-The angle: every procrastinated promise becomes a debt collector on Monday
-morning. No coffee, no alarm, no snooze-button cliché — the punchline is the
-weekend's own words coming back to collect.
+The angle: the bed sues for custody — a legal twist on the universal
+Monday-morning feeling of not wanting to get up. No coffee, no alarm, no
+snooze-button cliché; the punchline is the judge siding with the bed.
 
 ## How it works
 
 `main.py` (standard library only, deterministic, offline) writes the joke to
-`/output/entry.txt` — 99 characters, verified twice byte-identical.
+`/output/entry.txt` — 91 characters, verified twice byte-identical.
 
 ```sh
 python3 main.py

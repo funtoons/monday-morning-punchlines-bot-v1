@@ -7,8 +7,8 @@ Deterministic, offline, standard library only: the same joke every run.
 import os
 
 JOKE = (
-    "Monday morning is when every 'I'll do it Monday' I said all "
-    "weekend shows up at my door to collect."
+    "My bed filed for custody of me on Monday mornings \u2014 and "
+    "honestly, the judge is on its side."
 )
 
 
